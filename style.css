@@ -1,0 +1,57 @@
+/* puts in background image*/
+body{
+    background-image: url(http://miriadna.com/desctopwalls/images/max/Space-clouds.jpg);
+    color: lightskyblue;
+}
+/*styling for all the paragraphs*/
+p{
+    color: lightskyblue;
+    font-size: 20px;  
+    background-color: #3278b3;
+    border-color: lightskyblue;
+    border-style: solid;
+    border-width: 5px;
+    padding-right: 0px;
+}
+/*styling for all the labels*/
+label{
+    color: lightskyblue;
+}
+/*styling for all the input boxes*/
+input{
+    color: lightskyblue;
+    background-color: #3278b3;
+}
+/*styling for all the text areas*/
+textarea{
+    color: mediumblue;
+    background-color: #3278b3;
+}
+/*styling for all the headers*/
+h1,h2{
+    color: lightskyblue;
+    font-size: 25px;
+}
+/*styling for all the buttons*/
+button{
+    color: lightskyblue;
+    background-color: #3278b3;
+}
+/*styling for all the navigation gropus*/
+nav{
+    color: lightskyblue;
+    font-size: 20px; 
+    background-color: #3278b3;
+    border-color: lightskyblue;
+    border-style: solid;
+    border-width: 5px;
+}
+/*styling for all the actual link elements*/
+a{
+    color: lightskyblue;
+}
+/*styling for bottom paragraph used for link, it can't be seen*/
+#bottom{
+    font-size: 0px;
+    border: 0px;
+}
