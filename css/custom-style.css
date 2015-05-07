@@ -1,0 +1,27 @@
+body{
+    background-image: url(http://miriadna.com/desctopwalls/images/max/Space-clouds.jpg);
+}
+div{
+    color: lightsteelblue;
+}
+li{
+    color: lightskyblue;
+    font-size: 20px;
+}
+button{
+    height: 50px;
+    width: 100px;
+}
+#numbers {
+    background-color: blue;
+    width: 300px;
+    overflow:hidden;
+}
+#animateList li a {
+    cursor: pointer;
+    transition: padding-left 250ms ease-out;
+    /* trans pattern:  property duration timingMethod delay */
+}
+#animateList li a:hover {
+    padding-left: 20px;
+}

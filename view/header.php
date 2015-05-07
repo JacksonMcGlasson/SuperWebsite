@@ -16,10 +16,11 @@ To change this template file, open  in the editor.
         <nav name="top">
             <ul class="nav nav-tabs">
                 <li><a href="http://localhost:8383/Portfolio2/index.html">My Portfolio</a></li>
+                <li><a href="http://localhost/BlogJacksonM/index.php">My Blog</a></li>
                 <li><a href="http://localhost/Super-Website/index.php">Main Page</a></li>
                 <li><a href="http://localhost/Super-Website//login.php">Login</a></li>
                 <li><a href="http://localhost/Super-Website//register.php">Register</a></li>
             </ul>
         </nav>
         <!-- link to the bottom of the page -->
-    <li><a href="index.php#bottom">To Bottom of page</a></li>
+    
