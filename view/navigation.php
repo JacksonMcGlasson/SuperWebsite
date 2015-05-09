@@ -6,5 +6,6 @@ require_once (__DIR__ . "/../model/config.php");
     <ul class="nav nav-tabs">
         
         <li><a href="<?php echo $path . "controller/logout-user.php"; ?>">Log Out</a></li>
+        
     </ul>
 </nav>

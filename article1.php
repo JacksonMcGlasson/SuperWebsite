@@ -22,7 +22,7 @@ and open the template in the editor.
         require_once (__DIR__ . "/view/header.php");
 //if the user is logged in they can access the blog post form
 
-
+        ;
         if (authenticateUser()) {
             require_once (__DIR__ . "/view/navigation.php");
         }
@@ -32,23 +32,51 @@ and open the template in the editor.
             <div class="row">
                 <div class="col-md-10">
                     <div class="row">
-                        <div class="col-xs-2"> <h1>Main Page</h1>
+                        <div class="col-xs-2"> <h1>Top 10 Whatevers</h1>
                         </div>
                         <div class="col-xs-10">
-                            <img id="halo" class="img-responsive img-circle" src="">
-                        </div><!--halo picture-->
+
+                        </div>
                     </div>
                     <div class="row">
                         <div class="col-xs-2">
                         </div>
                         <div class="col-xs-10"> 
-                            <h3>This is a web site of many lists. </h3>
-                            <p>This a web site of lists. You will find many different lists than may be informative or enertaining</p> 
-
+                            <h3>These are 10 things that are just whatever</h3>
+                            <p>1.Something<br />
+                                <br />
+                               something is something</p> 
+                            <p>2.Something<br />
+                                <br />
+                               something is something</p> 
+                            <p>3.Something<br />
+                                <br />
+                               something is something</p> 
+                            <p>4.Something<br />
+                                <br />
+                               something is something</p> 
+                            <p>5.Something<br />
+                                <br />
+                               something is something</p> 
+                            <p>6.Something<br />
+                                <br />
+                               something is something</p> 
+                            <p>7.Something<br />
+                                <br />
+                               something is something</p> 
+                            <p>8.Something<br />
+                                <br />
+                               something is something</p>
+                            <p>9.Something<br />
+                                <br />
+                               something is something</p> 
+                            <p>10.Something<br />
+                                <br />
+                               something is something</p> 
                         </div>
 
-                    </div> 
-                     <div>
+                    </div>
+                    <div>
                         <h3>Lists and Gallery</h3>
                     </div>
                     <?php
@@ -63,3 +91,5 @@ and open the template in the editor.
         </div>
     </body>
 </html>
+
+
