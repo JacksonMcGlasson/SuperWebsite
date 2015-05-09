@@ -32,7 +32,7 @@ and open the template in the editor.
             <div class="row">
                 <div class="col-md-10">
                     <div class="row">
-                        <div class="col-xs-2"> <h1>Top 10 Whatevers</h1>
+                        <div class="col-xs-2"> <h1> 10 Wierd Stories</h1>
                         </div>
                         <div class="col-xs-10">
 
@@ -42,10 +42,13 @@ and open the template in the editor.
                         <div class="col-xs-2">
                         </div>
                         <div class="col-xs-10"> 
-                            <h3>These are 10 things that are just whatever</h3>
-                            <p>1.Something<br />
+                            <h3>These are 10 wierd stories that caught attention</h3>
+                            <p>1.Thief steals a fridge from a gas station<br />
                                 <br />
-                               something is something</p> 
+                                 A man walked in to a gas station convenience store at 4:09am April 2 and noticed that the<br />
+                               the clerk was asleep. He then decided he would take 15 minutes to pry an ice cream freezer from the wall<br />
+                               and take it with him. he was arrested a few days later.</p> 
+                            <img src="http://media.skynews.com/media/images/generated/2015/4/24/386933/default/v1/fridgees-1-762x428.jpg">
                             <p>2.Something<br />
                                 <br />
                                something is something</p> 
@@ -82,6 +85,9 @@ and open the template in the editor.
                     <?php
                     if (authenticateUser()) {
                         require_once (__DIR__ . "/view/navigation2.php");
+                    }
+                    if (!authenticateUser()) {
+                        echo "To see lists and gallery log in or register for an account";
                     }
                     ?>
                 </div>

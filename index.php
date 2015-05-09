@@ -55,6 +55,9 @@ and open the template in the editor.
                     if (authenticateUser()) {
                         require_once (__DIR__ . "/view/navigation2.php");
                     }
+                    if (!authenticateUser()) {
+                        echo "To see lists and gallery log in or register for an account";
+                    }
                     ?>
                 </div>
                 <div class="col-md-2">

@@ -6,6 +6,6 @@ require_once (__DIR__ . "/../model/config.php");
     <ul>
 
         <li><a href="<?php echo $path . "gallery.php"; ?>">Gallery</a></li>
-        <li><a href="<?php echo $path . "article1.php"; ?>">Top 10 Whatevers</a></li>
+        <li><a href="<?php echo $path . "article1.php"; ?>">10 Wierd Stories</a></li>
     </ul>
 </nav>

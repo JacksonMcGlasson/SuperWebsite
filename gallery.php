@@ -43,7 +43,7 @@ and open the template in the editor.
                         </div>
                         <div class="col-xs-10"> 
                             <h3>These are the pictures from all the lists</h3>
-
+                             <img src="http://media.skynews.com/media/images/generated/2015/4/24/386933/default/v1/fridgees-1-762x428.jpg">
                         </div>
 
                     </div>
@@ -53,6 +53,9 @@ and open the template in the editor.
                     <?php
                     if (authenticateUser()) {
                         require_once (__DIR__ . "/view/navigation2.php");
+                    }
+                    if (!authenticateUser()) {
+                        echo "To see lists and gallery log in or register for an account";
                     }
                     ?>
                 </div>
