@@ -57,7 +57,6 @@ and open the template in the editor.
                                While he was running from the cops he decided to stop to urinate in a bush. Unfortunately for him,
                                there was wasps nest in the bush. He then had to be rescued by the police and spend six unpleasant 
                                hours in the hospital.</p>  
-                            <img src="http://static.socialitelife.com/uploads/2013/01/24/stephen-dorff-peeing-bushes-01242013-05-435x580.jpg">
                             <p>3.Omelet accident<br />
                                 <br />
                                  Three tractor trailers crashed on an interstate in Chattanooga, Tennessee. Out of each truck

@@ -43,6 +43,7 @@ and open the template in the editor.
                         </div>
                         <div class="col-xs-10"> 
                             <h3>These are the pictures from all the lists</h3>
+                            <img src="http://wac.450f.edgecastcdn.net/80450F/999ktdy.com/files/2012/06/Eggs.png">
                              <img src="http://media.skynews.com/media/images/generated/2015/4/24/386933/default/v1/fridgees-1-762x428.jpg">
                         </div>
 
