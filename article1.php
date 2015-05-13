@@ -55,7 +55,7 @@ and open the template in the editor.
                                  If that last one was not entertaining enough here is another story about a thief.
                                A man named Jamie Brown stole a fish tank from a hardware store that he was banned from.
                                While he was running from the cops he decided to stop to urinate in a bush. Unfortunately for him,
-                               there was wasps nest in the bush. He then had to be rescued by the police and spend six unpleasant 
+                               there was a wasp's nest in the bush. He then had to be rescued by the police and spend six unpleasant 
                                hours in the hospital.</p>  
                             <p>3.Omelet accident<br />
                                 <br />
@@ -63,9 +63,14 @@ and open the template in the editor.
                                spilled a load of eggs, pallets of cheese, and boxes of meat. This created a giant omelet on 
                                the highway.It took hours to clean up.</p> 
                             <img src="http://wac.450f.edgecastcdn.net/80450F/999ktdy.com/files/2012/06/Eggs.png">
-                            <p>4.Something<br />
+                            <p>4.Expensive Toilets<br />
                                 <br />
-                               something is something</p> 
+                                 People sometimes think that if something is owned by a celebrity it needs to be sold for a lot of
+                               money. In some cases, people want to buy celebrity toilets for a large cash sum. One of John Lennon's toilets 
+                               sold for 9,500 pounds(about $14,740) at an auction. Someone also decided to open bids on the toilet of J.D Salinger,
+                               an author. the bids started at 1 million dollars because the dealer said "who knows how  many of Salinger's stories
+                               were thought up and written while he sat on this throne!" These sound like great ways to spend your money.</p> 
+                            <img src="http://blog-images.homethangs.com/2011/10/FloWise-Dual-Flush-Elongated-Toilet1-300x300.jpg">
                             <p>5.Something<br />
                                 <br />
                                something is something</p> 
