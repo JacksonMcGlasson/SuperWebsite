@@ -47,22 +47,7 @@ and open the template in the editor.
                                 These lists will tell stories or present interesting facts for users to read.</p> 
 
                         </div>
-
-
-
-
-                        <form id="frmSearch" class="search2" method="get" action="article1.php" />
-                        <input class="search2" id="txtSearch" type="text" name="serach_bar" size="31" maxlength="255"       
-                               value="" style="left: 396px; top: 153px; width: 293px; height: 26px;" />
-                        <input class="search1" type="submit" name="submition" value="Search" style=" padding-  
-                               bottom:20px; left: 691px; top: 153px; height: 23px" />
-                        <input class="search2" type="hidden" name="sitesearch" value="article1.php" />
-                        <script type="text/javascript">
-                            document.getElementById('frmSearch').onsubmit = function () {
-                                window.location = 'http://www.google.com/search?q=site:http://localhost/Super-Website/index.php ' + document.getElementById('txtSearch').value;
-                                return false;
-                            }
-                        </script>
+                        <button id='random'>Random Page</button>
                     </div> 
                     <div>
                         <h3>Lists and Gallery</h3>
