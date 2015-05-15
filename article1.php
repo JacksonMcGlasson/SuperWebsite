@@ -71,9 +71,12 @@ and open the template in the editor.
                                an author. the bids started at 1 million dollars because the dealer said "who knows how  many of Salinger's stories
                                were thought up and written while he sat on this throne!" These sound like great ways to spend your money.</p> 
                             <img src="http://blog-images.homethangs.com/2011/10/FloWise-Dual-Flush-Elongated-Toilet1-300x300.jpg">
-                            <p>5.Something<br />
+                            <p>5.Elderly couple "trapped" in their car.<br />
                                 <br />
-                               something is something</p> 
+                                 On November 6, an elderly couple spent 13 hours in their new car assuming they were trapped.They had forgotten the key to 
+                               the car and had also forgotten how to open it from the inside. When they were finally found they had to be taken
+                               to the hospital. Unlike most people, they didn't know that the door opened manually from the inside. </p> 
+                            <img src="http://41.media.tumblr.com/tumblr_lzp1ejCRUA1r834ato1_500.jpg">
                             <p>6.Something<br />
                                 <br />
                                something is something</p> 
