@@ -8,6 +8,7 @@ and open the template in the editor.
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
         <title>Super-Website</title>
         <link type="text/css" rel="stylesheet" href="css/custom-style.css">
         <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -28,6 +29,38 @@ and open the template in the editor.
         }
         require_once (__DIR__ . "/view/footer.php");
         ?>
+        <div id="page">
+
+            <h1>Google Powered Site Search</h1>
+
+            <form id="searchForm" method="post">
+                <fieldset>
+
+                    <input id="s" type="text" />
+
+                    <input type="submit" value="Submit" id="submitButton" />
+
+                    <div id="searchInContainer">
+                        <input type="radio" name="check" value="site" id="searchSite" checked />
+                        <label for="searchSite" id="siteNameLabel">Search</label>
+
+                        <input type="radio" name="check" value="web" id="searchWeb" />
+                        <label for="searchWeb">Search The Web</label>
+                    </div>
+
+                    <ul class="icons">
+                        <li class="web" title="Web Search" data-searchType="web">Web</li>
+                        <li class="images" title="Image Search" data-searchType="images">Images</li>
+                        <li class="news" title="News Search" data-searchType="news">News</li>
+                        <li class="videos" title="Video Search" data-searchType="video">Videos</li>
+                    </ul>
+
+                </fieldset>
+            </form>
+
+            <div id="resultsDiv"></div>
+
+        </div>
         <div class="container"> 
             <div class="row">
                 <div class="col-md-10">
@@ -48,7 +81,7 @@ and open the template in the editor.
 
                         </div>
                         <button id='random'><a href="<?php echo $path . "gallery.php"; ?>">Random</a>
-                                <a href="<?php echo $path . "article1.php"; ?>">Page</a></button>
+                            <a href="<?php echo $path . "article1.php"; ?>">Page</a></button>
                     </div> 
                     <div>
                         <h3>Lists and Gallery</h3>
@@ -66,5 +99,7 @@ and open the template in the editor.
                 </div>
             </div> 
         </div>
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+        <script src="script.js"></script>
     </body>
 </html>
