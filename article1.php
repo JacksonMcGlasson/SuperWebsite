@@ -77,9 +77,12 @@ and open the template in the editor.
                                the car and had also forgotten how to open it from the inside. When they were finally found they had to be taken
                                to the hospital. Unlike most people, they didn't know that the door opened manually from the inside. </p> 
                             <img src="http://41.media.tumblr.com/tumblr_lzp1ejCRUA1r834ato1_500.jpg">
-                            <p>6.Something<br />
+                            <p>6.Penguin man of Belgium.<br />
                                 <br />
-                               something is something</p> 
+                                 Alfred Davis ,79, is known in Belgium as "Monsieur Pingouin"(Mr. Penguin). He took on the name after a car accident
+                               left him with a waddle in his walk that he decided to fully embrace. When he officially changed his name, his wife left him
+                               because she didn't want to be called Mrs. Penguin. However, he did not let that hold him back and he created a penguin-item
+                               muesuem with 3,500 items. He also created a full body penguin outfit that he wears daily, waddling around Brussels.</p> 
                             <p>7.Something<br />
                                 <br />
                                something is something</p> 
