@@ -84,9 +84,10 @@ and open the template in the editor.
                                because she didn't want to be called Mrs. Penguin. However, he did not let that hold him back and he created a penguin-item
                                muesuem with 3,500 items. He also created a full body penguin outfit that he wears daily, waddling around Brussels.</p> 
                             <img src="https://metrouk2.files.wordpress.com/2012/05/article-1336231355220-12ed83ae000005dc-763244_466x487.jpg">
-                            <p>7.Something<br />
+                            <p>7.Killing robots<br />
                                 <br />
-                               something is something</p> 
+                                 Some robotic devolpers have created some robots with a "taste" for blood. They created a clock which is powered by dead houseflies.
+                               It takes 12 carcasses to power it for 12 days.</p> 
                             <p>8.Something<br />
                                 <br />
                                something is something</p>
