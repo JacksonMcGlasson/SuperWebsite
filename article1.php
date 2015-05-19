@@ -86,17 +86,26 @@ and open the template in the editor.
                             <img src="https://metrouk2.files.wordpress.com/2012/05/article-1336231355220-12ed83ae000005dc-763244_466x487.jpg">
                             <p>7.Killing robots<br />
                                 <br />
-                                 Some robotic devolpers have created some robots with a "taste" for blood. They created a clock which is powered by dead houseflies.
-                               It takes 12 carcasses to power it for 12 days.</p> 
-                            <p>8.Something<br />
+                                 Some robotic devolopers have created some robots with a "taste" for blood. They created a clock which is powered by dead houseflies.
+                               It takes 12 carcasses to power it for 12 days. The other invention is  a coffee table that catches mice. It lures them up 
+                               the table legs with cheese into a hole in the center. once inside they are guillotined. Some find it worriying to give robots 
+                               a taste for meat.</p> 
+                            <img src="http://cdn.gajitz.com/wp-content/uploads/2011/04/microbial-fuel-cell-coffee-table.jpg">
+                            <p>8.Cow injury<br />
                                 <br />
-                               something is something</p>
-                            <p>9.Something<br />
+                               On May 5, 2007 a man suffered an unfortunate accident. He was driving on a road in Austrailia when he accidently  his SUV into a cow in the 
+                            road. The cow was thrown into the air and landed on the cars roof collapsed injuring the man. Somehow he survived.</p>
+                            <img src="http://www.vaguebuttrue.com/images/1231908285-cow%20in%20car%202.jpg">
+                            <p>9.Tree crocs<br />
                                 <br />
-                               something is something</p> 
-                            <p>10.Something<br />
+                               In Florida some alligators an crocodile have new habits. They have started to climb trees. People are aafraid they will jump down from
+                            the trees and attack. Now fishermen in the area have to keep an eye on the water and the trees.</p> 
+                            <img src="http://www.vaguebuttrue.com/images/1394508417-tree-climbing-crocodileEDIT.jpg">
+                            <p>10.Goose Revenge<br />
                                 <br />
-                               something is something</p> 
+                               A flock of night flying geese took down a medical helicopter on a rescue mission to save a man. The guy who needed
+                            to be rescued was a goose hunter. Because the geese took down the chopper, the goose hunter died.</p> 
+                            <img src="http://www.vaguebuttrue.com/images/1232420720-goose%20in%20chopper%20WEBSITE.jpg">
                         </div>
 
                     </div>

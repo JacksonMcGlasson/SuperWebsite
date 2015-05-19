@@ -31,7 +31,7 @@ and open the template in the editor.
         ?>
         <div id="page">
 
-            <h1>Google Powered Site Search</h1>
+            <h1> Search the site</h1>
 
             <form id="searchForm" method="post">
                 <fieldset>

@@ -12,6 +12,8 @@ p{
     border-style: solid;
     border-width: 5px;
     padding-right: 0px;
+    
+    
 }
 /*styling for all the labels*/
 label{
@@ -100,7 +102,7 @@ fieldset{
     text-shadow:1px 1px 0 white;
     width:385px;
 }
-/*.icons{
+.icons{
     list-style:none;
     margin:10px 0 0 335px;
     height:19px;
@@ -116,7 +118,7 @@ fieldset{
     margin-right:5px;
 }
 
- Styling each icon 
+ //Styling each icon 
 
 li.web{ width:15px;}
 li.web.active,
@@ -135,7 +137,7 @@ li.videos.active,
 li.videos:hover{ background-position:right bottom;}
 
 span.arrow{
-     The little arrow that moves below the icons 
+ //    The little arrow that moves below the icons 
 
     width:11px;
     height:6px;
@@ -145,7 +147,7 @@ span.arrow{
     left:0;
 }
 
- The submit button 
+ //The submit button 
 
 #submitButton{
     background:url('img/buttons.png') no-repeat;
@@ -169,7 +171,7 @@ span.arrow{
     font-weight:normal;
     padding:8px 20px;
 
-     Applying CSS3 rounded corners 
+     //Applying CSS3 rounded corners 
     -moz-border-radius:18px;
     -webkit-border-radius:18px;
     border-radius:18px;
@@ -180,7 +182,7 @@ span.arrow{
 .webResult p b{ color:white;}
 .webResult > a{ margin-left:20px;}
 
- Image & video search results 
+ //Image & video search results 
 
 .imageResult{
     float:left;
@@ -197,7 +199,7 @@ span.arrow{
     margin:0 auto 15px;
 }
 
- The show more button 
+ //The show more button 
 
 #more{
     width:83px;
@@ -209,4 +211,4 @@ span.arrow{
 
 #more:hover{
     background-position:left bottom;
-}*/
+}

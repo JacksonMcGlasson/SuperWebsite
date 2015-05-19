@@ -1,7 +1,7 @@
 $(document).ready(function(){
 
 var config = {
-siteURL		: 'http://localhost/Super-Website/index.php', // Change this to your site
+siteURL		: 'http://localhost/Super-Website/', // Change this to your site
         searchSite	: true,
         type		: 'web',
         append		: false,
@@ -91,7 +91,7 @@ config.searchSite = this.id == 'searchSite';
 
                 pageContainer.append('<div class="clear"></div>')
                         .hide().appendTo(resultsDiv)
-                        .fadeIn('slow');
+                        .fadeIn('slow');y
                         var cursor = r.responseData.cursor;
                         // Checking if there are more pages with results,
                         // and deciding whether to show the More button:
@@ -148,8 +148,7 @@ case 'GwebSearch':
         case 'GvideoSearch':
         arr = [
                 '<div class="imageResult">',
-                '<a href="', r.url, '" title="', r.titleNoFormatting, '
-                " class="pic" style="width:150px; height:auto; ">',
+                '<a href="', r.url, '" title="', r.titleNoFormatting, ' " class="pic" style="width:150px; height:auto; ">',
                 '<img src="', r.tbUrl, '" width="100%" /></a>',
                 '<div class="clear"></div>', '<a href="',
                 r.originalContextUrl, '">', r.publisher, '</a>',
@@ -170,6 +169,6 @@ case 'GwebSearch':
 // The toString method.
 this.toString = function(){
 return arr.join('');
-}
+};
 }
 });
