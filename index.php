@@ -35,7 +35,15 @@ and open the template in the editor.
                     <div class="row">
                         <div class="col-xs-2"> <h1>Main Page</h1>
                         </div>
-                        
+                        <form method="get" action="http://search.columbia.edu/search">
+                            <input type="text" name="q" alt="Search" value="" maxlength="256" size="32" />
+                            <input type="submit" name="btnG" value="Search" />
+                            <input type="hidden" name="site" value="Super-Website" />
+                            <input type="hidden" name="client" value="columbia" />
+                            <input type="hidden" name="proxystylesheet" value="columbia2" />
+                            <input type="hidden" name="output" value="xml_no_dtd" />
+                            <input type="hidden" name="filter" value="0" />
+                        </form>
                     </div>
                     <div class="row">
                         <div class="col-xs-2">
