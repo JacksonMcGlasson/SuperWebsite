@@ -52,6 +52,9 @@ and open the template in the editor.
                             <img src="http://www.vaguebuttrue.com/images/1231908285-cow%20in%20car%202.jpg">
                             <img src="http://www.vaguebuttrue.com/images/1394508417-tree-climbing-crocodileEDIT.jpg">
                             <img src="http://www.vaguebuttrue.com/images/1232420720-goose%20in%20chopper%20WEBSITE.jpg">
+                             <img src="http://i0.wp.com/listverse.com/wp-content/uploads/2009/07/baiji-tm.jpg?resize=400%2C213">
+                             <img src="http://i2.wp.com/listverse.com/wp-content/uploads/2009/07/javan_tiger-tm.jpg?resize=400%2C273g">
+                             <img src="http://i1.wp.com/listverse.com/wp-content/uploads/2009/07/img_18.jpg">
                         </div>
 
                     </div>
