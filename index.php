@@ -50,8 +50,6 @@ and open the template in the editor.
 
                         </div>
                         <button id='random'><a href="http://localhost/Super-Website/random.php">Random Page</a></button>
-    
-
                     </div> 
                     <div>
                         <h3>Lists and Gallery</h3>
