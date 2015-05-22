@@ -49,7 +49,9 @@ and open the template in the editor.
                                 These lists will tell stories or present interesting facts for users to read.</p> 
 
                         </div>
-                        <button id='random'>Random Page</button>
+                        <button id='random'><a href="http://localhost/Super-Website/random.php">Random Page</a></button>
+    
+
                     </div> 
                     <div>
                         <h3>Lists and Gallery</h3>
