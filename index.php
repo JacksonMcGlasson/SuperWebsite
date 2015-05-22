@@ -36,9 +36,9 @@ and open the template in the editor.
                         <div class="col-xs-2"> <h1>Main Page</h1>
                         </div>
                         <form  method="post" action="search.php?go"  id="searchform"> 
-11	      <input  type="text" name="name"> 
-12	      <input  type="submit" name="submit" value="Search"> 
-13	    </form> 
+                            <input  type="text" name="name"> 
+                            <input  type="submit" name="submit" value="Search"> 
+                        </form> 
                     </div>
                     <div class="row">
                         <div class="col-xs-2">

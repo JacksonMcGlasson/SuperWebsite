@@ -49,7 +49,7 @@ and open the template in the editor.
                             know that i should continue searching the endless web for an answer but i am very tired of doing that. Why wont you help me google?
                             What did I do to you? Just give me the answer to my problems already google. If you don't you can just leave, you untrustworthy cryptic guy.
                             Why? How? When? Where? these are questions i need answers to with this project. I can't find them . Someone once said this: Apples before cereal
-                            deal every flipping game
+                            deal every flipping game has income jailed, killed like man never over powered quack restless sorry television under view with xylophones, yaks, zebras.
                             </p> 
                             
                     <div>
