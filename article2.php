@@ -33,7 +33,10 @@ and open the template in the editor.
                         <div class="col-xs-2"> <h1> 7 Recent Animal Extinctions </h1>
                         </div>
                         <div class="col-xs-10">
-
+                            <form  method="post" action="search.php?go"  id="searchform"> 
+                                <input  type="text" name="name"> 
+                                <input  type="submit" name="submit" value="Search"> 
+                            </form> 
                         </div>
                     </div>
                     <div class="row">
@@ -76,8 +79,8 @@ and open the template in the editor.
                             <p>6.Thyacline<br />
                                 <br />
                                 The thyacline or tasmanian tiger was the largest carniverous marsupial. They were wiped out because of constant hunting. They were hunted 
-                               down because they attacked sheep. People also started settling on their habitat. It was only recognized as being endangered the year the last 
-                               one died. It died because it was locked outside in its zoo pen and froze to death.</p> 
+                                down because they attacked sheep. People also started settling on their habitat. It was only recognized as being endangered the year the last 
+                                one died. It died because it was locked outside in its zoo pen and froze to death.</p> 
                             <img src="http://i2.wp.com/listverse.com/wp-content/uploads/2009/07/picture-1-112.png">
                             <p>7.West African Black Rhino<br />
                                 <br />
@@ -86,7 +89,7 @@ and open the template in the editor.
                                 population was in the hundreds, and by 2000 only an estimated 10 rhinos remained. A survey of the animal's last remaining habitat in northern Cameroon 
                                 failed to find any of the rhinos, but search efforts continue. No West African black rhinos are known to be held in captivity.</p> 
                             <img src="http://media.mnn.com/sites/default/files/styles/featured_blog/public/rhino_2.jpg">
-                            c="http://blog-images.homethangs.com/2011/10/FloWise-Dual-Flush-Elongated-Toilet1-300x300.jpg">
+                            
                         </div>
 
                     </div>
