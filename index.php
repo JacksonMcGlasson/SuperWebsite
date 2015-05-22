@@ -35,6 +35,7 @@ and open the template in the editor.
                     <div class="row">
                         <div class="col-xs-2"> <h1>Main Page</h1>
                         </div>
+                        <!-- search bar code-->
                         <form  method="post" action="search.php?go"  id="searchform"> 
                             <input  type="text" name="name"> 
                             <input  type="submit" name="submit" value="Search"> 
@@ -49,6 +50,7 @@ and open the template in the editor.
                                 These lists will tell stories or present interesting facts for users to read.</p> 
 
                         </div>
+                        <!-- button tht sends you to a random page-->
                         <button id='random'><a href="http://localhost/Super-Website/random.php">Random Page</a></button>
                     </div> 
                     <div>

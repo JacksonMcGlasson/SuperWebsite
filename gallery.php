@@ -35,10 +35,12 @@ and open the template in the editor.
                         <div class="col-xs-2"> <h1>Gallery</h1>
                         </div>
                         <div class="col-xs-10">
+                            <!-- search bar code-->
                             <form  method="post" action="search.php?go"  id="searchform"> 
                                 <input  type="text" name="name"> 
                                 <input  type="submit" name="submit" value="Search"> 
                             </form> 
+                             <!-- button tht sends you to a random page-->
                             <button id='random'><a href="http://localhost/Super-Website/random.php">Random Page</a></button>
                         </div>
                     </div>
