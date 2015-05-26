@@ -40,6 +40,7 @@ and open the template in the editor.
                             <input  type="text" name="name"> 
                             <input  type="submit" name="submit" value="Search"> 
                         </form> 
+                        
                     </div>
                     <div class="row">
                         <div class="col-xs-2">
@@ -51,7 +52,7 @@ and open the template in the editor.
 
                         </div>
                         <!-- button that sends you to a random page-->
-                        
+
                     </div> 
                     <div>
                         <h3>Lists and Gallery</h3>

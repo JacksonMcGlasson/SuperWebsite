@@ -8,9 +8,9 @@ To change this template file, open  in the editor.
         <meta charset="UTF-8">
         <link href="bootstrap/bootstrap.min.css" rel="stylesheet">
         <link type="text/css" rel="stylesheet" href="style.css">
-        <title>BLOG</title>
+        <title>Super Web Site of Lists</title>
     </head>
-    <body>
+    <body> 
         <!-- links that go to my portfolio 2,the main page of the blog,
              the login page, and the register page -->
         <nav name="top">
