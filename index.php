@@ -36,41 +36,40 @@ and open the template in the editor.
                         <div class="col-xs-2"> <h1>Main Page</h1>
                         </div>
                         <!-- search bar code-->
-                        <form  method="post" action="search.php?go"  id="searchform"> 
-                            <input  type="text" name="name"> 
-                            <input  type="submit" name="submit" value="Search"> 
+                        <form>
+                            <input type="text" size="30" onkeyup="showResult(this.value)">
+                            <div id="livesearch"></div>
                         </form> 
-                        
-                    </div>
-                    <div class="row">
-                        <div class="col-xs-2">
-                        </div>
-                        <div class="col-xs-10"> 
-                            <h3>This is a web site of many lists. </h3>
-                            <p>This a web site of lists. You will find many different lists than may be informative or enertaining.
-                                These lists will tell stories or present interesting facts for users to read.</p> 
 
-                        </div>
-                        <!-- button that sends you to a random page-->
+                        <div class="row">
+                            <div class="col-xs-2">
+                            </div>
+                            <div class="col-xs-10"> 
+                                <h3>This is a web site of many lists. </h3>
+                                <p>This a web site of lists. You will find many different lists than may be informative or enertaining.
+                                    These lists will tell stories or present interesting facts for users to read.</p> 
 
-                    </div> 
-                    <div>
-                        <h3>Lists and Gallery</h3>
+                            </div>
+                            <!-- button that sends you to a random page-->
+
+                        </div> 
+                        <div>
+                            <h3>Lists and Gallery</h3>
+                        </div>
+                        <?php
+                        if (authenticateUser()) {
+                            require_once (__DIR__ . "/view/navigation2.php");
+                        }
+                        if (!authenticateUser()) {
+                            echo "To see lists and gallery log in or register for an account";
+                        }
+                        ?>
                     </div>
-                    <?php
-                    if (authenticateUser()) {
-                        require_once (__DIR__ . "/view/navigation2.php");
-                    }
-                    if (!authenticateUser()) {
-                        echo "To see lists and gallery log in or register for an account";
-                    }
-                    ?>
-                </div>
-                <div class="col-md-2">
-                </div>
-            </div> 
-        </div>
-        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
-        <script src="js/search.js"></script>
+                    <div class="col-md-2">
+                    </div>
+                </div> 
+            </div>
+            <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+            <script src="js/search.js"></script>
     </body>
 </html>
