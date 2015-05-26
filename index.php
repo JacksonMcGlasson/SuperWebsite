@@ -50,8 +50,8 @@ and open the template in the editor.
                                 These lists will tell stories or present interesting facts for users to read.</p> 
 
                         </div>
-                        <!-- button tht sends you to a random page-->
-                        <button id='random'><a href="http://localhost/Super-Website/random.php">Random Page</a></button>
+                        <!-- button that sends you to a random page-->
+                        
                     </div> 
                     <div>
                         <h3>Lists and Gallery</h3>
