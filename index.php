@@ -35,10 +35,10 @@ and open the template in the editor.
                     <div class="row">
                         <div class="col-xs-2"> <h1>Main Page</h1>
                         </div>
-
                         <div id="tfheader">
-                            <form id="tfnewsearch" method="get" action="http://www.google.com">
-                                <input type="text" class="tftextinput" name="q" size="21" maxlength="120"><input type="submit" value="search" class="tfbutton">
+                            <form id="tfnewsearch" method="get" action="http://localhost/Super-Website">
+                                <input type="text" class="tftextinput" name="q" size="21" maxlength="120">
+                                <input type="submit" value="search" class="tfbutton">
                             </form>
                             <div class="tfclear"></div>
                         </div>
@@ -70,7 +70,16 @@ and open the template in the editor.
                     </div>
                 </div> 
             </div>
+            <script>
+                $(document).ready(function () {
+                    $('#tipue_search_input').tipuesearch({
+                        'show': 6
+                    });
+                });
+            </script>
             <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
             <script src="js/search.js"></script>
+            <script src="js/searchContent.js"></script>
+            <script src="js/searchSet.js"></script>
     </body>
 </html>
