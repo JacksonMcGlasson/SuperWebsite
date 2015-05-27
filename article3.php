@@ -8,7 +8,7 @@ and open the template in the editor.
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Super-Website</title>
+        <title>Super Web Site Of Lists</title>
         <link type="text/css" rel="stylesheet" href="css/custom-style.css">
         <link href="css/bootstrap.min.css" rel="stylesheet">
         <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
@@ -38,7 +38,7 @@ and open the template in the editor.
                                 <input  type="text" name="name"> 
                                 <input  type="submit" name="submit" value="Search"> 
                             </form> 
-                             <!-- button tht sends you to a random page-->
+                             <!-- button that sends you to a random page-->
                             <button id='random'><a href="http://localhost/Super-Website/random.php">Random Page</a></button>
                         </div>
                     </div>

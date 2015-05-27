@@ -3,6 +3,7 @@ require_once (__DIR__ . "/../model/config.php");
 ?>
 <!--links that go to the blog post form and logs out people -->
 <nav>
+    
     <ul>
         <button id='random'><a href="http://localhost/Super-Website/random.php">Random Page</a></button>
         <li><a href="<?php echo $path . "gallery.php"; ?>">Gallery</a></li>
