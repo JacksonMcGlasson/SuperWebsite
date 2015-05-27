@@ -1,22 +1,44 @@
-function showResult(str) {
-  if (str.length==0) { 
-    document.getElementById("livesearch").innerHTML="";
-    document.getElementById("livesearch").style.border="0px";
-    return;
-  }
-  if (window.XMLHttpRequest) {
-    // code for IE7+, Firefox, Chrome, Opera, Safari
-    xmlhttp=new XMLHttpRequest();
-  } else {  // code for IE6, IE5
-    xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
-  }
-  xmlhttp.onreadystatechange=function() {
-    if (xmlhttp.readyState==4 && xmlhttp.status==200) {
-      document.getElementById("livesearch").innerHTML=xmlhttp.responseText;
-      document.getElementById("livesearch").style.border="1px solid #A5ACB2";
-    }
-  }
-  xmlhttp.open("GET","livesearch.php?q="+str,true);
-  xmlhttp.send();
-}
+jQuery.fn.liveUpdate = function(list){
+	list = jQuery(list);
 
+	if ( list.length ) {
+		var rows = list.children('li'),
+			cache = rows.map(function(){
+				return this.innerHTML.toLowerCase();
+			});
+			
+		this
+			.keyup(filter).keyup()
+			.parents('form').submit(function(){
+				return false;
+			});
+	}
+		
+	return this;
+		
+	function filter(){
+		var term = jQuery.trim( jQuery(this).val().toLowerCase() ), scores = [];
+		
+		if ( !term ) {
+			rows.show();
+		} else {
+			rows.hide();
+
+			cache.each(function(i){
+				var score = this.score(term);
+				if (score > 0) { scores.push([score, i]); }
+			});
+
+			jQuery.each(scores.sort(function(a, b){return b[0] - a[0];}), function(){
+				jQuery(rows[ this[1] ]).show();
+			});
+		}
+	}
+};
+$('input.search').searchbox({
+  url: '/your/search/url',
+  param: 'q',
+  dom_id: '#thumbnails',
+  delay: 250,
+  loading_css: '#spinner'
+})
