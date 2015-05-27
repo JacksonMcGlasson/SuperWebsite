@@ -47,7 +47,7 @@ and open the template in the editor.
                             </div>
                             <div class="col-xs-10"> 
                                 <h3>This is a web site of many lists. </h3>
-                                <p>This a web site of lists. You will find many different lists than may be informative or enertaining.
+                                <p>This a web site of lists. You will find many different lists than may be informative or entertaining.
                                     These lists will tell stories or present interesting facts for users to read.</p> 
 
                             </div>
