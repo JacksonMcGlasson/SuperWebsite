@@ -33,12 +33,12 @@ and open the template in the editor.
                         <div class="col-xs-2"> <h1> Another List </h1>
                         </div>
                         <div class="col-xs-10">
-                             <!-- search bar code-->
+                            <!-- search bar code-->
                             <form  method="post" action="search.php?go"  id="searchform"> 
                                 <input  type="text" name="name"> 
                                 <input  type="submit" name="submit" value="Search"> 
                             </form> 
-                             <!-- button that sends you to a random page-->
+                            <!-- button that sends you to a random page-->
                             <button id='random'><a href="http://localhost/Super-Website/random.php">Random Page</a></button>
                         </div>
                     </div>

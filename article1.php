@@ -22,7 +22,7 @@ and open the template in the editor.
         require_once (__DIR__ . "/view/header.php");
 //if the user is logged in they can access the blog post form
 
-        ;
+
         if (authenticateUser()) {
             require_once (__DIR__ . "/view/navigation.php");
         }
@@ -40,7 +40,7 @@ and open the template in the editor.
                                 <input  type="text" name="name"> 
                                 <input  type="submit" name="submit" value="Search"> 
                             </form> 
-                             <!-- button tht sends you to a random page-->
+                            <!-- button tht sends you to a random page-->
                             <button id='random'><a href="http://localhost/Super-Website/random.php">Random Page</a></button>
                         </div>
                     </div>

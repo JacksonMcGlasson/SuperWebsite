@@ -38,7 +38,7 @@ and open the template in the editor.
                                 <input  type="text" name="name"> 
                                 <input  type="submit" name="submit" value="Search"> 
                             </form> 
-                             <!-- button tht sends you to a random page-->
+                            <!-- button tht sends you to a random page-->
                             <button id='random'><a href="http://localhost/Super-Website/random.php">Random Page</a></button>
                         </div>
                     </div>
@@ -92,7 +92,7 @@ and open the template in the editor.
                                 population was in the hundreds, and by 2000 only an estimated 10 rhinos remained. A survey of the animal's last remaining habitat in northern Cameroon 
                                 failed to find any of the rhinos, but search efforts continue. No West African black rhinos are known to be held in captivity.</p> 
                             <img src="http://media.mnn.com/sites/default/files/styles/featured_blog/public/rhino_2.jpg">
-                            
+
                         </div>
 
                     </div>
