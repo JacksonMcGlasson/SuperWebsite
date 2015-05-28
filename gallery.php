@@ -38,7 +38,7 @@ and open the template in the editor.
                                 <input  type="text" name="name"> 
                                 <input  type="submit" name="submit" value="Search(this doesn't work at the moment)"> 
                             </form> 
-                             <!-- button that sends you to a random page-->
+                            <!-- button that sends you to a random page-->
                             <button id='random'><a href="http://localhost/Super-Website/random.php">Random Page</a></button>
                         </div>
                     </div>

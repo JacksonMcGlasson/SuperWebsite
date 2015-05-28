@@ -95,7 +95,7 @@ and open the template in the editor.
                         <h3>Lists and Gallery</h3>
                     </div>
                     <?php
-                   //if logged in the user can access the list pages and gallery
+                    //if logged in the user can access the list pages and gallery
                     if (authenticateUser()) {
                         require_once (__DIR__ . "/view/navigation2.php");
                     }
