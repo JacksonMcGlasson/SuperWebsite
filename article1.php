@@ -20,9 +20,8 @@ and open the template in the editor.
         <?php
         require_once (__DIR__ . "/controller/login-verify.php");
         require_once (__DIR__ . "/view/header.php");
-//if the user is logged in they can access the blog post form
 
-
+        //if the user is logged in they can access the  logout
         if (authenticateUser()) {
             require_once (__DIR__ . "/view/navigation.php");
         }
@@ -128,9 +127,11 @@ and open the template in the editor.
                         <h3>Lists and Gallery</h3>
                     </div>
                     <?php
+                    //if logged in the user can access the list pages and gallery
                     if (authenticateUser()) {
                         require_once (__DIR__ . "/view/navigation2.php");
                     }
+                    //if they are not this message will display
                     if (!authenticateUser()) {
                         echo "To see lists and gallery log in or register for an account";
                     }

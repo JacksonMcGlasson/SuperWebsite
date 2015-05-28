@@ -14,7 +14,9 @@ To change this template file, open  in the editor.
         <!-- links that go to my portfolio 2,the main page of the blog,
              the login page, and the register page -->
         <nav name="top">
+            <!-- navbar-->
             <ul class="nav nav-tabs">
+                <!--links-->
                 <li><a href="http://localhost/Super-Website/index.php">Main Page</a></li>
                 <li><a href="http://localhost/Super-Website/login.php">Login</a></li>
                 <li><a href="http://localhost/Super-Website/register.php">Register</a></li>
