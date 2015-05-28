@@ -37,7 +37,7 @@ and open the template in the editor.
                             <!-- search bar code-->
                             <form  method="post" action="search.php?go"  id="searchform"> 
                                 <input  type="text" name="name"> 
-                                <input  type="submit" name="submit" value="Search"> 
+                                <input  type="submit" name="submit" value="Search(this doesn't work at the moment)"> 
                             </form> 
                             <!-- button tht sends you to a random page-->
                             <button id='random'><a href="http://localhost/Super-Website/random.php">Random Page</a></button>
@@ -89,7 +89,7 @@ and open the template in the editor.
                             <p>6.Penguin man of Belgium.<br />
                                 <br />
                                 Alfred Davis ,79, is known in Belgium as "Monsieur Pingouin"(Mr. Penguin). He took on the name after a car accident
-                                left him with a waddle in his walk that he decided to fully embrace. When he officially changed his name, his wife left him
+                                left him with a waddle in his walk that he decided to fully embrace it. When he officially changed his name, his wife left him
                                 because she didn't want to be called Mrs. Penguin. However, he did not let that hold him back and he created a penguin-item
                                 museum with 3,500 items. He also created a full body penguin outfit that he wears daily, waddling around Brussels.</p> 
                             <!--image related to story-->

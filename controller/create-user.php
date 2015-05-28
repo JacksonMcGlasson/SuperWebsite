@@ -26,6 +26,7 @@ if (!$use->num_rows > 0 && !$ema->num_rows > 0) {
 //checks if user was created successfully
     if ($query) {
         echo "Succesfully created user: $username";
+         header("Location:" . $path . "index.php");
     } else {
         echo "<p>" . $_SESSION["connection"]->error . "</p>";
     }

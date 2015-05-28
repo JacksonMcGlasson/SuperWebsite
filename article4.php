@@ -36,7 +36,7 @@ and open the template in the editor.
                             <!-- search bar code-->
                             <form  method="post" action="search.php?go"  id="searchform"> 
                                 <input  type="text" name="name"> 
-                                <input  type="submit" name="submit" value="Search"> 
+                                <input  type="submit" name="submit" value="Search(this doesn't work at the moment)"> 
                             </form> 
                             <!-- button tht sends you to a random page-->
                             <button id = 'random'><a href = "http://localhost/Super-Website/random.php">Random Page</a></button>

@@ -36,7 +36,7 @@ and open the template in the editor.
                         <div id="tfheader">
                             <form id="tfnewsearch" method="get" action="http://localhost/Super-Website">
                                 <input type="text" class="tftextinput" name="q" size="21" maxlength="120">
-                                <input type="submit" value="search" class="tfbutton">
+                                <input type="submit" value="search(this doesn't work at the moment)" class="tfbutton">
                             </form>
                             <div class="tfclear"></div>
                         </div>
