@@ -34,10 +34,13 @@ and open the template in the editor.
                         </div>
                         <div class="col-xs-10">
                             <!-- search bar code-->
-                            <form  method="post" action="search.php?go"  id="searchform"> 
-                                <input  type="text" name="name"> 
-                                <input  type="submit" name="submit" value="Search(this doesn't work at the moment)"> 
-                            </form> 
+                            <div id="tfheader">
+                                <form id="tfnewsearch" method="get" action="http://localhost/Super-Website">
+                                    <input type="text" class="tftextinput" name="q" size="21" maxlength="120">
+                                    <input type="submit" value="search(this doesn't work at the moment)" class="tfbutton">
+                                </form>
+                                <div class="tfclear"></div>
+                            </div>
                             <!-- button tht sends you to a random page-->
                             <button id='random'><a href="http://localhost/Super-Website/random.php">Random Page</a></button>
                         </div>
