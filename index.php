@@ -63,7 +63,7 @@ and open the template in the editor.
                         //if they are not this message will display
                         if (!authenticateUser()) {
                             echo "To see lists and gallery log in or register for an account";
-                        }
+                        }//
                         ?>
                     </div>
                     <div class="col-md-2">
