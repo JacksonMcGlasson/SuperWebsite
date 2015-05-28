@@ -74,7 +74,7 @@ and open the template in the editor.
                                 People sometimes think that if something is owned by a celebrity it needs to be sold for a lot of
                                 money. In some cases, people want to buy celebrity toilets for a large cash sum. One of John Lennon's toilets 
                                 sold for 9,500 pounds(about $14,740) at an auction. Someone also decided to open bids on the toilet of J.D Salinger,
-                                an author. the bids started at 1 million dollars because the dealer said "who knows how  many of Salinger's stories
+                                an author. The bids started at 1 million dollars because the dealer said "who knows how  many of Salinger's stories
                                 were thought up and written while he sat on this throne!" These sound like great ways to spend your money.</p> 
                             <img src="http://blog-images.homethangs.com/2011/10/FloWise-Dual-Flush-Elongated-Toilet1-300x300.jpg">
                             <p>5.Elderly couple "trapped" in their car.<br />

@@ -30,7 +30,7 @@ and open the template in the editor.
             <div class="row">
                 <div class="col-md-10">
                     <div class="row">
-                        <div class="col-xs-2"> <h1> Another List </h1>
+                        <div class="col-xs-2"> <h1> 10 Great Video Game Soundtracks </h1>
                         </div>
                         <div class="col-xs-10">
                             <!-- search bar code-->
@@ -46,48 +46,45 @@ and open the template in the editor.
                         <div class="col-xs-2">
                         </div>
                         <div class="col-xs-10"> 
-                            <h3>Another List</h3>
-                            <p>1.Something<br />
+                            <h3>Here are some good sound tracks from video games i like.</h3>
+                            <p>1.Skyrim<br />
                                 <br />
-                                something is something</p> 
-                            <img src="http://sacobserver.com/wp-content/uploads/2012/08/coming-soon.jpg">
-                            <p>2.Something<br />
+                                </p> 
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/aQeIYVM3YBM" frameborder="0" allowfullscreen></iframe>
+                            <p>2 & 3.Halo 3 & 4<br />
                                 <br />
-                                something is something
                             </p>  
-                            <img src="http://sacobserver.com/wp-content/uploads/2012/08/coming-soon.jpg">
-                            <p>3.Something<br />
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/eIyQVP3IUyg" frameborder="0" allowfullscreen></iframe>
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/o7_FPx_H7sc" frameborder="0" allowfullscreen></iframe>
+                            <p>4.Portal 2<br />
                                 <br />
-                                something is something</p> 
-                            <img src="http://sacobserver.com/wp-content/uploads/2012/08/coming-soon.jpg">
-                            <p>4.Something<br />
+                                </p> 
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/ZHSX9_pLwc8" frameborder="0" allowfullscreen></iframe>
+                            <p>5.Assassins Creed IV: Black Flag<br />
                                 <br />
-                                something is something</p> 
-                            <img src="http://sacobserver.com/wp-content/uploads/2012/08/coming-soon.jpg">
-                            <p>5.Something<br />
+                                </p> 
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/eXZ6pWh19mI" frameborder="0" allowfullscreen></iframe>
+                            <p>6.Half Life 2<br />
                                 <br />
-                                something is something</p> 
-                            <img src="http://sacobserver.com/wp-content/uploads/2012/08/coming-soon.jpg">
-                            <p>6.Something<br />
+                                </p> 
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/Xt2sbtvBuk8" frameborder="0" allowfullscreen></iframe>
+                            <p>7.Destiny<br />
                                 <br />
-                                something is something</p> 
-                            <img src="http://sacobserver.com/wp-content/uploads/2012/08/coming-soon.jpg">
-                            <p>7.Something<br />
+                                </p> 
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/EvwDiV2K_0g" frameborder="0" allowfullscreen></iframe>
+                            <p>8.Farcry 4<br />
                                 <br />
-                                something is something</p> 
-                            <img src="http://sacobserver.com/wp-content/uploads/2012/08/coming-soon.jpg">
-                            <p>8.Something<br />
+                                </p> 
+                            <iframe width="420" height="315" src="https://www.youtube.com/embed/UMTfwhW4Bsc" frameborder="0" allowfullscreen></iframe>
+                            <p>9.Call of Duty Black Ops II<br />
                                 <br />
-                                something is something</p>
-                            <img src="http://sacobserver.com/wp-content/uploads/2012/08/coming-soon.jpg">
-                            <p>9.Something<br />
+                                </p>
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/yn0MBBMcw8Y" frameborder="0" allowfullscreen></iframe>
+                            <p>10.Batman Arkham Origins<br />
                                 <br />
-                                something is something</p> 
-                            <img src="http://sacobserver.com/wp-content/uploads/2012/08/coming-soon.jpg">
-                            <p>10.Something<br />
-                                <br />
-                                something is something</p> 
-                            <img src="http://sacobserver.com/wp-content/uploads/2012/08/coming-soon.jpg">
+                                </p> 
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/9a1EzSU_-UE" frameborder="0" allowfullscreen></iframe>
+                            
                         </div>
 
                     </div>
