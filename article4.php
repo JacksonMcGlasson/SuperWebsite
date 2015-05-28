@@ -41,7 +41,7 @@ and open the template in the editor.
                                 </form>
                                 <div class="tfclear"></div>
                             </div>
-                            <!-- button tht sends you to a random page-->
+                            <!-- button that sends you to a random page-->
                             <button id = 'random'><a href = "http://localhost/Super-Website/random.php">Random Page</a></button>
                         </div>
                     </div>
