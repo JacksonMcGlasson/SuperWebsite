@@ -63,7 +63,7 @@ and open the template in the editor.
                                 While he was running from the cops he decided to stop to urinate in a bush. Unfortunately for him,
                                 there was a wasp's nest in the bush. He then had to be rescued by the police and spend six unpleasant 
                                 hours in the hospital.</p>  
-                            <p>3.Omelet accident<br />
+                            <p>3.Omelette accident<br />
                                 <br />
                                 Three tractor trailers crashed on an interstate in Chattanooga, Tennessee. Out of each truck
                                 spilled a load of eggs, pallets of cheese, and boxes of meat. This created a giant omelet on 
@@ -88,23 +88,23 @@ and open the template in the editor.
                                 Alfred Davis ,79, is known in Belgium as "Monsieur Pingouin"(Mr. Penguin). He took on the name after a car accident
                                 left him with a waddle in his walk that he decided to fully embrace. When he officially changed his name, his wife left him
                                 because she didn't want to be called Mrs. Penguin. However, he did not let that hold him back and he created a penguin-item
-                                muesuem with 3,500 items. He also created a full body penguin outfit that he wears daily, waddling around Brussels.</p> 
+                                museum with 3,500 items. He also created a full body penguin outfit that he wears daily, waddling around Brussels.</p> 
                             <img src="https://metrouk2.files.wordpress.com/2012/05/article-1336231355220-12ed83ae000005dc-763244_466x487.jpg">
                             <p>7.Killing robots<br />
                                 <br />
-                                Some robotic devolopers have created some robots with a "taste" for blood. They created a clock which is powered by dead houseflies.
+                                Some robotic developers have created some robots with a "taste" for blood. They created a clock which is powered by dead houseflies.
                                 It takes 12 carcasses to power it for 12 days. The other invention is  a coffee table that catches mice. It lures them up 
-                                the table legs with cheese into a hole in the center. once inside they are guillotined. Some find it worriying to give robots 
+                                the table legs with cheese into a hole in the center. once inside they are guillotined. Some find it worrying to give robots 
                                 a taste for meat.</p> 
                             <img src="http://cdn.gajitz.com/wp-content/uploads/2011/04/microbial-fuel-cell-coffee-table.jpg">
                             <p>8.Cow injury<br />
                                 <br />
-                                On May 5, 2007 a man suffered an unfortunate accident. He was driving on a road in Austrailia when he accidently  his SUV into a cow in the 
+                                On May 5, 2007 a man suffered an unfortunate accident. He was driving on a road in Australia when he accidently  his SUV into a cow in the 
                                 road. The cow was thrown into the air and landed on the cars roof collapsed injuring the man. Somehow he survived.</p>
                             <img src="http://www.vaguebuttrue.com/images/1231908285-cow%20in%20car%202.jpg">
                             <p>9.Tree crocs<br />
                                 <br />
-                                In Florida some alligators an crocodile have new habits. They have started to climb trees. People are aafraid they will jump down from
+                                In Florida some alligators and crocodiles have new habits. They have started to climb trees. People are afraid they will jump down from
                                 the trees and attack. Now fishermen in the area have to keep an eye on the water and the trees.</p> 
                             <img src="http://www.vaguebuttrue.com/images/1394508417-tree-climbing-crocodileEDIT.jpg">
                             <p>10.Goose Revenge<br />

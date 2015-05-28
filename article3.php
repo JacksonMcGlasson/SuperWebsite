@@ -30,7 +30,7 @@ and open the template in the editor.
             <div class="row">
                 <div class="col-md-10">
                     <div class="row">
-                        <div class="col-xs-2"> <h1> 10 Great Video Game Soundtracks </h1>
+                        <div class="col-xs-2"> <h1> 10 Great Video Game Sound Tracks </h1>
                         </div>
                         <div class="col-xs-10">
                             <!-- search bar code-->

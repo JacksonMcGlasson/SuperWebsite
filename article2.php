@@ -69,19 +69,19 @@ and open the template in the editor.
                             <p>4.Passenger Pigeon<br />
                                 <br />
                                 200 years ago, the passenger pigeon was the most common bird in North America. They flew in flocks that could number in billions.
-                                Pigeon meat started to be advertized as cheap food. Slaves and the poor ate them a lot. This led to a massive hunting campaign. Farmers 
+                                Pigeon meat started to be advertised as cheap food. Slaves and the poor ate them a lot. This led to a massive hunting campaign. Farmers 
                                 thought they were threats because of their numbers. The last passenger died in a zoo on September 1,1914.
                             </p> 
                             <img src="http://i2.wp.com/listverse.com/wp-content/uploads/2009/07/passengerpigeon.jpg">
                             <p>5.Quagga<br />
                                 <br />
                                 The quagga was a subspecies of zebra. It had stripes only on its head, neck and chest. The last wild quaggas were caught by 1870.
-                                the very last quagga died in a zoo in 1883. However, people did not know they were extinct; people indiscriminatly called anytype of
+                                the very last quagga died in a zoo in 1883. However, people did not know they were extinct; people indiscriminately called anytype of
                                 zebra a quagga. It went extinct because of ruthless hunting.</p> 
                             <img src="http://i1.wp.com/listverse.com/wp-content/uploads/2009/07/quagga_photo.jpg">
                             <p>6.Thyacline<br />
                                 <br />
-                                The thyacline or tasmanian tiger was the largest carniverous marsupial. They were wiped out because of constant hunting. They were hunted 
+                                The Thyacline or Tasmanian tiger was the largest carnivorous marsupial. They were wiped out because of constant hunting. They were hunted 
                                 down because they attacked sheep. People also started settling on their habitat. It was only recognized as being endangered the year the last 
                                 one died. It died because it was locked outside in its zoo pen and froze to death.</p> 
                             <img src="http://i2.wp.com/listverse.com/wp-content/uploads/2009/07/picture-1-112.png">
